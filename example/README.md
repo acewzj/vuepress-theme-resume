@@ -1,71 +1,59 @@
 <h1>
-  <span>姓名</span>
+  <span>王忠杰</span>
   <ul>
-    <li><span>电话</span>xxx xxxx xxxx</li>
-    <li><span>QQ</span>xxxxxxxxxxxxx</li>
-    <li><span>邮箱</span><a href="mailto:xxxxxxxx@foxmail.com">xxxxxxxx@foxmail.com</a></li>
-    <li><span>Github</span><a>github.com/wannaxiao</a></li>
+    <li><span>电话</span>13342269926</li>
+    <li><span>QQ</span>1291479254</li>
+    <li><span>邮箱</span><a href="mailto:13342269926@163.com">13342269926@163.com</a></li>
+    <li><span>博客</span><a href="https://acewzj.github.io/">acewzj.github.io</a></li>
+    <li><span>意向</span>基础平台研发</li>
   </ul>
 </h1>
 
 ## 教育经历
 
-硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
-本科 xxxxxxxxxxxx大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
+硕士 电子科技大学 计算机科学与工程<span class="right">2019.09 - 2022.06</span><br>
+本科 大连海事大学 计算机科学与技术 <span class="right">2015.09 - 2019.06</span>
 
-## 工作经历
-
-xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
-xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014.07 - 2016.07</span>
-
-- 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**
 
 ## 项目经验
 
-### 项目一名称<span class="role">:&nbsp;职责</span><span class="right">2018.01 - 至今</span>
+### 项目一 口腔牙齿数字印模仪<span class="role">:&nbsp;组长</span><span class="right">2019.07 - 至今</span>
 
-- 技术栈：**XXX Xxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
+- 通过摄像机扫描患者口腔内的牙齿，利用计算机图像处理和图形学技术进行三维数字建模，将牙齿三维模型呈现在屏幕上方便医生和患者进行直观的沟通
+- 初期配合老师进行方案的选型及快速验证
+- 中期根据论文使用 C++ 进行算法开发及测试
+- 后期根据实际商业化应用场景进行实时性可靠性方面的创新
+- 负责组内其他同学的任务协调及沟通
+- 目前已经完成实验室测试阶段，即将进行口腔内环境测试
 ---
 
-### 项目二名称<span class="role">:&nbsp;核心开发者</span><span class="right">2017.01 - 2018.01</span>
+### 项目二 CMU-DB-15-445数据库实验<span class="role">:&nbsp;实施者</span><span class="right">2020.09 - 至今</span>
+- 上网学习卡耐基梅隆大学计算机系数据库课程，使用 C++ 编写小型关系型数据库 Bustub，完成缓冲池、B+树索引、并发控制等模块代码编写
+- 调试时通过 GoogleTest 完成测试用例，系统性的巩固了所学的数据库等知识
+- 目前还正在测试完善阶段
+---
+### 项目三 基于无线充电的智能车<span class="role">:&nbsp;队长</span><span class="right">2017.10 - 2018.08</span>
 
-- 技术栈：**XXX Xxxx + Xxx Xxxxxx + Xxxxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
+- 2018年“NXP”全国大学生智能汽车大赛节能组赛题：车模电量需要来自超级电容、不能使用电池，需要使用无线充电技术充满能跑完两圈（80米）的电量，采用摄像头进行转弯控制、环岛识别等，最后取充电用时、跑圈用时之和进行排名，综合考验选手机械车模设计、充电方案设计、程序逻辑设计等方面
+- 在队伍中主要负责机械车模设计、方案选型、程序编写及调试等工作
+- 获得东北赛区一等奖、全国二等奖
 ---
 
-### 项目三名称<span class="role">:&nbsp;项目负责人</span><span class="right">2016.01 - 2017.01</span>
+## 比赛经历
 
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
----
-
-### 项目四名称<span class="role">:&nbsp;项目维护</span><span class="right">2015.01 - 2016.01</span>
-
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+2018年全国大学生智能汽车大赛 二等奖<span class="right">2017.10 - 2018.07</span><br>
+2018年全国大学生节能减排大赛 三等奖<span class="right">2018.03 - 2018.07</span>
 
 ## 技能描述
 
-- 了解 XXXXXXXXXXXXXXXXXXX，**掌握 XXXXXXXXXXXXX**
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 了解 XXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 掌握 XXXXXXXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXX，XXXXXXXXXXXXX
+- 熟练掌握C/C++，Python，了解JAVA
+- 熟练使用 Linux 操作系统
+- 熟练掌握数据结构与算法、计算机网络、数据库和操作系统等计算机基础知识
+- 熟悉双目立体视觉、结构光三维重建
 
 ## 自我评价
 
-- XXXXXXXXXXXXXXXXXXXXXXXXXXX,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+- 对计算机底层比较感兴趣，喜欢钻研技术
+- 喜欢和别人沟通，性格积极向上，抗压能力强
+- 喜欢动手折腾新奇的东西，并且愿意投入大量时间精力进行研究
+
